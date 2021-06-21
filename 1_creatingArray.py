@@ -8,5 +8,8 @@ for i in range(n):
 # Printing values of array , Traversal operation
 for i in arr:
     print(i, end=" ")
+print("Printing Again with another way of using for loop in python :- ")
+for i in range(n):
+    print(arr[i],end=" ")
 
 
